@@ -7,4 +7,3 @@ module.exports = function(deployer) {
       gasPrice: web3.utils.toWei('20', 'gwei'),  // Use gasPrice instead of EIP-1559 fields
     });
   };
-  
